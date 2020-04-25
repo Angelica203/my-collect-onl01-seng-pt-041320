@@ -1,3 +1,3 @@
 def my_collect(languages)
-languages do |language| language.upcase
+puts languages do |language| language.upcase
 end
