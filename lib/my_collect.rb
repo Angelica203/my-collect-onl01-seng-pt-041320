@@ -1,4 +1,4 @@
 def my_collect(languages)
-  if language
+  # if language
 
 end
