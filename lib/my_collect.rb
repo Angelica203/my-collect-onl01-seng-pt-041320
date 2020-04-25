@@ -1,4 +1,4 @@
 def my_collect(languages)
-  # if language
+  if languages do |language| language.upcase
 
 end
