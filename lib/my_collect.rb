@@ -1,3 +1,4 @@
-def my_collect(languages)
-# puts languages do |language| language.upcase
+ my_collect(languages)
+ do |language| 
+  language.upcase
 end
